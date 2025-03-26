@@ -1,0 +1,12 @@
+form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label, input, textarea, button {
+    margin: 10px 0;
+  }
+  
+  textarea {
+    height: 100px;
+  }

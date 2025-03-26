@@ -1,0 +1,17 @@
+.blog-post {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+  }
+  
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  footer {
+    margin-top: 40px;
+    text-align: center;
+  }
+  
